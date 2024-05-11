@@ -1,0 +1,358 @@
+[
+  {
+    "value": "Cardiology",
+    "synonyms": [
+      "Cardiology",
+      "heart",
+      "blood vessels",
+      "cardiovascular",
+      "blocked arteries",
+      "chest pain",
+      "chest"
+    ]
+  },
+  {
+    "value": "Radiology",
+    "synonyms": [
+      "Radiology",
+      "MRI",
+      "CT Scan",
+      "X-Ray",
+      "PET",
+      "Ultrasound"
+    ]
+  },
+  {
+    "value": "Alternative Medicine",
+    "synonyms": [
+      "Alternative Medicine"
+    ]
+  },
+  {
+    "value": "Dermatology",
+    "synonyms": [
+      "Dermatology",
+      "skin",
+      "acne",
+      "hair",
+      "nails",
+      "pimples",
+      "warts",
+      "rashes"
+    ]
+  },
+  {
+    "value": "Optometry",
+    "synonyms": [
+      "Optometry",
+      "eye",
+      "vision",
+      "specs",
+      "glasses",
+      "contacts",
+      "eye-sight"
+    ]
+  },
+  {
+    "value": "General Surgery",
+    "synonyms": [
+      "General Surgery",
+      "appendicitis",
+      "hernia",
+      "gallstones",
+      "stones",
+      "endocrine system",
+      "gastrointestinal tract",
+      "liver",
+      "colon",
+      "thyroid",
+      "appendix"
+    ]
+  },
+  {
+    "value": "Plastic Surgery",
+    "synonyms": [
+      "Plastic Surgery",
+      "cosmetic",
+      "physical defect",
+      "deformity",
+      "burns",
+      "scars",
+      "grafts"
+    ]
+  },
+  {
+    "value": "Obstetrics",
+    "synonyms": [
+      "Obstetrics",
+      "pregnancy",
+      "birth",
+      "antenatal care",
+      "postnatal care",
+      "labour"
+    ]
+  },
+  {
+    "value": "Virology",
+    "synonyms": [
+      "Virology",
+      "viruses",
+      "infection",
+      "anti-body"
+    ]
+  },
+  {
+    "value": "Psychiatry",
+    "synonyms": [
+      "Psychiatry",
+      "depression",
+      "anxiety",
+      "eating disorders",
+      "panic",
+      "mental health",
+      "stress",
+      "bipolar disorder",
+      "bipolar",
+      "dementia",
+      "Alzheimers",
+      "sleep disorders",
+      "insomnia",
+      "anorexia",
+      "bullemia",
+      "ADHD",
+      "Autism"
+    ]
+  },
+  {
+    "value": "Neurosurgery",
+    "synonyms": [
+      "Neurosurgery",
+      "brain",
+      "headache",
+      "epilepsy",
+      "stroke",
+      "nervous system",
+      "spinal cord",
+      "central nervous system",
+      "memory",
+      "nerves",
+      "aneurysms",
+      "peripheral nerve issues",
+      "chronic low-back pain"
+    ]
+  },
+  {
+    "value": "Hematology",
+    "synonyms": [
+      "Hematology",
+      "blood",
+      "blood cells",
+      "plasma",
+      "WBC",
+      "RBC",
+      "Anemia",
+      "blood clots",
+      "lymphs",
+      "bone marrow",
+      "Leukemia"
+    ]
+  },
+  {
+    "value": "Oncology",
+    "synonyms": [
+      "Oncology",
+      "cancer",
+      "tumor"
+    ]
+  },
+  {
+    "value": "Pediatrics",
+    "synonyms": [
+      "Pediatrics",
+      "child",
+      "children",
+      "kids",
+      "vaccination",
+      "immunization",
+      "children\u0027s illness",
+      "infants",
+      "teenager"
+    ]
+  },
+  {
+    "value": "Opthalmologycavities",
+    "synonyms": [
+      "Opthalmology",
+      "eye injuries",
+      "eye pain",
+      "eye infections",
+      "glaucoma",
+      "vision loss due to",
+      "eye surgery"
+    ]
+  },
+  {
+    "value": "Dentistry",
+    "synonyms": [
+      "Dentistry",
+      "oral health",
+      "teeth",
+      "tongue",
+      "cavities",
+      "root canal",
+      "bleeding gums",
+      "gums",
+      "dental",
+      "oral",
+      "mouth"
+    ]
+  },
+  {
+    "value": "ENT",
+    "synonyms": [
+      "ENT",
+      "ear nose and throat",
+      "ear",
+      "nose",
+      "throat",
+      "growth",
+      "head",
+      "neck",
+      "sinus",
+      "eardrums",
+      "ear wax",
+      "nose block",
+      "nose bleed"
+    ]
+  },
+  {
+    "value": "Gastroenterology",
+    "synonyms": [
+      "Gastroenterology",
+      "digestive diseases",
+      "abnormal bowel movements",
+      "bowel",
+      "bloating",
+      "rectal bleeding",
+      "swallowing",
+      "abdominal pain",
+      "heartburn"
+    ]
+  },
+  {
+    "value": "Neonatal Unit",
+    "synonyms": [
+      "Neonatal Unit",
+      "newborn",
+      "premature",
+      "ill newborn"
+    ]
+  },
+  {
+    "value": "Nutrition \u0026 Dietetics",
+    "synonyms": [
+      "Nutrition \u0026 Dietetics",
+      "nutrition",
+      "diet",
+      "healthy food",
+      "dietitian",
+      "lifestyle management",
+      "loose wi",
+      "weight loss",
+      "fit"
+    ]
+  },
+  {
+    "value": "Physiotherapy",
+    "synonyms": [
+      "Physiotherapy",
+      "pain",
+      "joint pain",
+      "decreasing pain",
+      "strength",
+      "coordination",
+      "recovery",
+      "rehabilitation",
+      "soft-tissue",
+      "relieve pain",
+      "sore muscles"
+    ]
+  },
+  {
+    "value": "Renal Unit",
+    "synonyms": [
+      "Renal Unit",
+      "kidney",
+      "dialysis"
+    ]
+  },
+  {
+    "value": "Sexual Health",
+    "synonyms": [
+      "Sexual Health",
+      "chlamydia",
+      "gonorrhoea",
+      "HIV",
+      "syphilis",
+      "STD",
+      "sexually transmitted disease",
+      "sexually transmitted infections"
+    ]
+  },
+  {
+    "value": "Pulmonary",
+    "synonyms": [
+      "Pulmonary",
+      "lung",
+      "breathing",
+      "respiratory system",
+      "asthma",
+      "tubercolosis"
+    ]
+  },
+  {
+    "value": "Urology",
+    "synonyms": [
+      "Urology",
+      "urinary tract",
+      "urinary",
+      "UTI",
+      "male reproductive system",
+      "bladder",
+      "ureters"
+    ]
+  },
+  {
+    "value": "Gynecology",
+    "synonyms": [
+      "Gynecology",
+      "female reproductive system",
+      "ovaries",
+      "menopause",
+      "hormonal imbalances",
+      "mensturation",
+      "cervix",
+      "pelvic",
+      "fertility"
+    ]
+  },
+  {
+    "value": "Trauma \u0026 Orthopedic",
+    "synonyms": [
+      "Orthopedic",
+      "broken bones",
+      "trauma",
+      "ligaments",
+      "muscles",
+      "joints",
+      "tendons",
+      "dislocated",
+      "broken",
+      "fractured",
+      "knee replacements",
+      "hip replacements",
+      "arthritis",
+      "realignment"
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "3d50255b-ac70-4a45-8a05-20e5146a9952",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to see a doctor immediately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "550af7e8-c418-4255-8692-db2ad6a07608",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a consultation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8bb5c06e-de72-4216-9683-0f09d6badb3a",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "need",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "visit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fcbf27a-8b8c-4032-9a89-2e4293d6527f",
+    "data": [
+      {
+        "text": "consultation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12f5cadb-cb2e-4c76-8424-9d0acd9e1259",
+    "data": [
+      {
+        "text": "book appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54c84719-23ac-4c09-9c85-01b41414e717",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "want",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to book a consultation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c39a5c5-445e-46b4-813a-88ebe6605355",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "want",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to book an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

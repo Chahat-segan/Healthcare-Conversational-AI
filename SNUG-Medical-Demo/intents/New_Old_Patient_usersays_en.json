@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cc5d9a28-432e-403a-9c1b-6acbaab0c2d7",
+    "data": [
+      {
+        "text": "i have already ",
+        "userDefined": false
+      },
+      {
+        "text": "visited",
+        "meta": "@AppointmentType",
+        "alias": "appointmenttype",
+        "userDefined": false
+      },
+      {
+        "text": " your hospital before",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6327ae95-0dcc-494a-aa69-74c6955882cc",
+    "data": [
+      {
+        "text": "new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "957304e5-cf71-48f5-819b-dec4931c22e7",
+    "data": [
+      {
+        "text": "It\u0027s my ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " time consulting this hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efea43d6-7a64-4b74-83e0-9d5a43411a99",
+    "data": [
+      {
+        "text": "i am new to this hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

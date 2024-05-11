@@ -1,0 +1,153 @@
+[
+  {
+    "id": "0778696b-cd6b-472d-b107-2e31c81977c0",
+    "data": [
+      {
+        "text": "cardialogy",
+        "meta": "@Departments",
+        "alias": "departments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "224de15b-8dce-4e77-8668-11f8599eacd5",
+    "data": [
+      {
+        "text": "I need to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "Dialysis",
+        "meta": "@Departments",
+        "alias": "departments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63502101-54c0-47d0-beae-aa0ed548da50",
+    "data": [
+      {
+        "text": "I need a consultation with the ",
+        "userDefined": false
+      },
+      {
+        "text": "Gynecology",
+        "meta": "@Departments",
+        "alias": "departments",
+        "userDefined": false
+      },
+      {
+        "text": " department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75689dc1-2cfc-4409-a6b1-65ac1177bc79",
+    "data": [
+      {
+        "text": "I suffer from ",
+        "userDefined": false
+      },
+      {
+        "text": "insomnia",
+        "meta": "@Departments",
+        "alias": "departments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74361049-a6cb-4715-b026-b926801b151c",
+    "data": [
+      {
+        "text": "I want to get an ",
+        "userDefined": false
+      },
+      {
+        "text": "X-Ray",
+        "meta": "@Departments",
+        "alias": "departments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "done",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe04dc11-a037-4b37-a387-e8365e00c5ab",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "arthritis",
+        "meta": "@Departments",
+        "alias": "departments",
+        "userDefined": false
+      },
+      {
+        "text": " and I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "consultation",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cae6d954-e93e-4ca3-bc73-8790edcc3503",
+    "data": [
+      {
+        "text": "i am suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "chest pain",
+        "meta": "@Departments",
+        "alias": "departments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

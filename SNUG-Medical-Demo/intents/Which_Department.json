@@ -1,0 +1,56 @@
+{
+  "id": "803680db-a9ac-4ddb-b168-0bfa0d7a6e96",
+  "name": "Which_Department",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c7699c21-86c3-4181-8e7b-d316d59710d3",
+          "name": "departments",
+          "required": true,
+          "dataType": "@Departments",
+          "value": "$departments",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please specify the department which you want to consult or any problems/difficulties that you are facing?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OK. Suggesting you some doctors from the $departments Department.",
+            "OK. Here are some specialists from the $departments Department"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
